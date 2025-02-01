@@ -105,8 +105,9 @@ Search for Weather Information:
 ## to end the program 
 - you can also say exit to end the program
 # application 
-- this is he link for the [applicaion ](github.com)
+- this is he link for the [applicaion ](https://github.com/Sk16er/Basic_Voicecommand_tool.py/blob/main/main.exe)
 
 "Weather"
-License
+# License
 This project is licensed under the MIT License.
+- to reviw [click here](https://github.com/Sk16er/Basic_Voicecommand_tool.py/blob/main/LICENSE)
