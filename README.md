@@ -109,6 +109,8 @@ Search for Weather Information:
 - this is he link for the [applicaion ](https://github.com/Sk16er/Basic_Voicecommand_tool.py/blob/main/main.exe)
 
 "Weather"
+# if in case you did not know how to install and launc that see this
+- [video](https://www.awesomescreenshot.com/video/36137469?key=03ca5e36b559fbbbc1749c29fa226926)
 # License
 This project is licensed under the MIT License.
 - to reviw [click here](https://github.com/Sk16er/Basic_Voicecommand_tool.py/blob/main/LICENSE)
