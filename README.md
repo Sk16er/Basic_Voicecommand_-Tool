@@ -56,7 +56,7 @@ Give commands to the assistant. Some example commands include:
 - "Open file C:\path\to\file.txt"
 - "What is the time?"
 - "What is the day?"
-- "Ask AI about Python programming"
+- "Ask AI about Python programming" (i will add more ai feature in fucture :)
 - "Open website google.com"
 - "Weather"
 # Example Commands
@@ -102,6 +102,10 @@ Open Applications:
 
 - "Ask AI about Python programming"
 Search for Weather Information:
+## to end the program 
+- you can also say exit to end the program
+# application 
+- this is he link for the [applicaion ](github.com)
 
 "Weather"
 License
